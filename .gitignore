@@ -34,6 +34,6 @@
 # Visual studio related
 .vs
 .vs/
-.vs\
 *.vcxproj
 *.vcxproj.*
+Debug/
